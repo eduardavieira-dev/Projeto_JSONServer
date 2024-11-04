@@ -1,7 +1,7 @@
 {
   "contatos": [
     {
-      "nome": "Cleiton Silva",
+      "nome": "Cleiton Silva Sauro",
       "telefone": "1-770-736-8031",
       "email": "Sincere@april.biz",
       "cidade": "Belo Horizonte",
@@ -73,7 +73,7 @@
       "website": "jacynthe.com"
     },
     {
-      "nome": "João Caetano",
+      "nome": "João Caetano de Oliveira",
       "telefone": "(775)976-6794",
       "email": "joao@dana.io",
       "cidade": "Betim",
@@ -116,6 +116,33 @@
       "categoria": "trabalho",
       "website": "http://joao.com",
       "id": 13
+    },
+    {
+      "nome": "Juao da Silva",
+      "telefone": "764746753753",
+      "email": "juao@x.com",
+      "cidade": "São Paulo",
+      "categoria": "amigos",
+      "website": "http://juao.com",
+      "id": 14
+    },
+    {
+      "nome": "Zé das couves",
+      "telefone": "8787587688",
+      "email": "ze@couves.com",
+      "cidade": "São Paulo",
+      "categoria": "amigos",
+      "website": "https://couves.com",
+      "id": 15
+    },
+    {
+      "nome": "Ze das couves",
+      "telefone": "23422",
+      "email": "ze@couves.com",
+      "cidade": "Sao Paulo",
+      "categoria": "amigos",
+      "website": "https://couves.com",
+      "id": 16
     }
   ],
   "usuarios": [
@@ -282,10 +309,35 @@
     }
   ],
   "cidades": [
-       { "id": 1, "cidade": "Belo Horizonte", "estado": "MG", "populacao": 3800000 },
-       { "id": 2, "cidade": "São Paulo", "estado": "SP", "populacao": 11800000 },
-       { "id": 3, "cidade": "Rio de Janeiro", "estado": "RJ", "populacao": 5300000 },
-       { "id": 4, "cidade": "Curitiba", "estado": "PR", "populacao": 1200000 },
-       { "id": 5, "cidade": "Fortaleza", "estado": "CE", "populacao": 2100000 }
-   ]
+    {
+      "id": 1,
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "populacao": 3800000
+    },
+    {
+      "id": 2,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "populacao": 11800000
+    },
+    {
+      "id": 3,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "populacao": 5300000
+    },
+    {
+      "id": 4,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "populacao": 1200000
+    },
+    {
+      "id": 5,
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "populacao": 2100000
+    }
+  ]
 }
